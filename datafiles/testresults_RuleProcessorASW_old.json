@@ -1,0 +1,183 @@
+{
+    "summary": {
+        "startDttm": "2022-10-28 16:23:36",
+        "endDttm": "2022-10-28 16:23:42",
+        "executionTime": 5917,
+        "totalRec": 20,
+        "passed": 17,
+        "failed": 3
+    },
+    "results": [
+        {
+            "ban": 143774514,
+            "rNo": 1,
+            "startDttm": "2022-10-28 16:23:36",
+            "endDttm": "2022-10-28 16:23:37",
+            "executionTime": 336,
+            "mismatchFields": {
+                "status": "expected:500, actual:200",
+                "ruleSet": "expected:RS_202205_ASW_R2_v1.4, actual:RS_202205_ASW_R1_v1.4",
+                "eligible": "expected:False, actual:True"
+            },
+            "status": "failed"
+        },
+        {
+            "ban": 826131106,
+            "rNo": 2,
+            "startDttm": "2022-10-28 16:23:37",
+            "endDttm": "2022-10-28 16:23:37",
+            "executionTime": 222,
+            "status": "passed"
+        },
+        {
+            "ban": 970472114,
+            "rNo": 3,
+            "startDttm": "2022-10-28 16:23:37",
+            "endDttm": "2022-10-28 16:23:37",
+            "executionTime": 210,
+            "status": "passed"
+        },
+        {
+            "ban": 222333444,
+            "rNo": 4,
+            "startDttm": "2022-10-28 16:23:37",
+            "endDttm": "2022-10-28 16:23:37",
+            "executionTime": 222,
+            "status": "passed"
+        },
+        {
+            "ban": 222333441,
+            "rNo": 5,
+            "startDttm": "2022-10-28 16:23:37",
+            "endDttm": "2022-10-28 16:23:38",
+            "executionTime": 222,
+            "mismatchFields": {
+                "status": "expected:500, actual:200"
+            },
+            "status": "failed"
+        },
+        {
+            "ban": 222333442,
+            "rNo": 6,
+            "startDttm": "2022-10-28 16:23:38",
+            "endDttm": "2022-10-28 16:23:38",
+            "executionTime": 230,
+            "mismatchFields": {
+                "eligible": "expected:False, actual:True"
+            },
+            "status": "failed"
+        },
+        {
+            "ban": 222333443,
+            "rNo": 7,
+            "startDttm": "2022-10-28 16:23:38",
+            "endDttm": "2022-10-28 16:23:38",
+            "executionTime": 236,
+            "status": "passed"
+        },
+        {
+            "ban": 222333444,
+            "rNo": 8,
+            "startDttm": "2022-10-28 16:23:38",
+            "endDttm": "2022-10-28 16:23:38",
+            "executionTime": 228,
+            "status": "passed"
+        },
+        {
+            "ban": 222333445,
+            "rNo": 9,
+            "startDttm": "2022-10-28 16:23:38",
+            "endDttm": "2022-10-28 16:23:39",
+            "executionTime": 316,
+            "status": "passed"
+        },
+        {
+            "ban": 222333446,
+            "rNo": 10,
+            "startDttm": "2022-10-28 16:23:39",
+            "endDttm": "2022-10-28 16:23:39",
+            "executionTime": 222,
+            "status": "passed"
+        },
+        {
+            "ban": 222333447,
+            "rNo": 11,
+            "startDttm": "2022-10-28 16:23:39",
+            "endDttm": "2022-10-28 16:23:39",
+            "executionTime": 407,
+            "status": "passed"
+        },
+        {
+            "ban": 222333448,
+            "rNo": 12,
+            "startDttm": "2022-10-28 16:23:39",
+            "endDttm": "2022-10-28 16:23:39",
+            "executionTime": 231,
+            "status": "passed"
+        },
+        {
+            "ban": 222333449,
+            "rNo": 13,
+            "startDttm": "2022-10-28 16:23:39",
+            "endDttm": "2022-10-28 16:23:40",
+            "executionTime": 240,
+            "status": "passed"
+        },
+        {
+            "ban": 222333440,
+            "rNo": 14,
+            "startDttm": "2022-10-28 16:23:40",
+            "endDttm": "2022-10-28 16:23:40",
+            "executionTime": 222,
+            "status": "passed"
+        },
+        {
+            "ban": 322333444,
+            "rNo": 15,
+            "startDttm": "2022-10-28 16:23:40",
+            "endDttm": "2022-10-28 16:23:40",
+            "executionTime": 228,
+            "status": "passed"
+        },
+        {
+            "ban": 422333444,
+            "rNo": 16,
+            "startDttm": "2022-10-28 16:23:40",
+            "endDttm": "2022-10-28 16:23:40",
+            "executionTime": 217,
+            "status": "passed"
+        },
+        {
+            "ban": 522333444,
+            "rNo": 17,
+            "startDttm": "2022-10-28 16:23:40",
+            "endDttm": "2022-10-28 16:23:41",
+            "executionTime": 246,
+            "status": "passed"
+        },
+        {
+            "ban": 622333444,
+            "rNo": 18,
+            "startDttm": "2022-10-28 16:23:41",
+            "endDttm": "2022-10-28 16:23:41",
+            "executionTime": 289,
+            "status": "passed"
+        },
+        {
+            "ban": 722333444,
+            "rNo": 19,
+            "startDttm": "2022-10-28 16:23:41",
+            "endDttm": "2022-10-28 16:23:41",
+            "executionTime": 297,
+            "status": "passed"
+        },
+        {
+            "ban": 822333444,
+            "rNo": 20,
+            "startDttm": "2022-10-28 16:23:41",
+            "endDttm": "2022-10-28 16:23:42",
+            "executionTime": 306,
+            "status": "passed"
+        }
+    ]
+}

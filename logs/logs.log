@@ -1,0 +1,16 @@
+DEBUG -11/23/202210:53:30 AM -{connectionpool _new_conn:1003} - Starting new HTTPS connection (1): tmobilea-sb02.apigee.net:443
+DEBUG -11/23/202210:53:31 AM -{connectionpool _make_request:456} - https://tmobilea-sb02.apigee.net:443 "POST /oauth2/v6/tokens HTTP/1.1" 200 3499
+DEBUG -11/23/202210:53:31 AM -{connectionpool _new_conn:1003} - Starting new HTTPS connection (1): rules-processor-qat1.px-npe1101.pks.t-mobile.com:443
+DEBUG -11/23/202210:53:31 AM -{connectionpool _make_request:456} - https://rules-processor-qat1.px-npe1101.pks.t-mobile.com:443 "POST /scee/v1/rules-evaluator/asw-eligible-ban HTTP/1.1" 400 None
+DEBUG -11/23/202210:53:31 AM -{connectionpool _new_conn:1003} - Starting new HTTPS connection (1): rules-processor-qat1.px-npe1101.pks.t-mobile.com:443
+DEBUG -11/23/202210:53:31 AM -{connectionpool _make_request:456} - https://rules-processor-qat1.px-npe1101.pks.t-mobile.com:443 "POST /scee/v1/rules-evaluator/asw-eligible-ban HTTP/1.1" 400 None
+DEBUG -11/23/202210:53:31 AM -{connectionpool _new_conn:1003} - Starting new HTTPS connection (1): rules-processor-qat1.px-npe1101.pks.t-mobile.com:443
+DEBUG -11/23/202210:53:31 AM -{connectionpool _make_request:456} - https://rules-processor-qat1.px-npe1101.pks.t-mobile.com:443 "POST /scee/v1/rules-evaluator/asw-eligible-ban HTTP/1.1" 200 None
+DEBUG -11/23/202210:53:31 AM -{connectionpool _new_conn:1003} - Starting new HTTPS connection (1): rules-processor-qat1.px-npe1101.pks.t-mobile.com:443
+DEBUG -11/23/202210:53:32 AM -{connectionpool _make_request:456} - https://rules-processor-qat1.px-npe1101.pks.t-mobile.com:443 "POST /scee/v1/rules-evaluator/asw-eligible-ban HTTP/1.1" 200 None
+DEBUG -11/23/202210:53:32 AM -{connectionpool _new_conn:1003} - Starting new HTTPS connection (1): rules-processor-qat1.px-npe1101.pks.t-mobile.com:443
+DEBUG -11/23/202210:53:32 AM -{connectionpool _make_request:456} - https://rules-processor-qat1.px-npe1101.pks.t-mobile.com:443 "POST /scee/v1/rules-evaluator/asw-eligible-ban HTTP/1.1" 200 None
+DEBUG -11/23/202210:53:32 AM -{connectionpool _new_conn:1003} - Starting new HTTPS connection (1): rules-processor-qat1.px-npe1101.pks.t-mobile.com:443
+DEBUG -11/23/202210:53:32 AM -{connectionpool _make_request:456} - https://rules-processor-qat1.px-npe1101.pks.t-mobile.com:443 "POST /scee/v1/rules-evaluator/asw-eligible-ban HTTP/1.1" 200 None
+ERROR -11/23/202210:53:32 AM -{commonfunctions getJson:208} - File TC-7.json has invalid json structure
+ERROR -11/23/202210:53:32 AM -{tcRuleProcessorASW <module>:146} - TC-7:JSON file for 481807672- either file does not exist or is blank or has invalid json or ban/conversion id is not matching

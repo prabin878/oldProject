@@ -1,0 +1,45 @@
+{
+	"request": {
+		"params": {
+			
+		},
+		"body": {
+			"conversionId":"En",
+			"coreAcctBan": 109288998,
+			"coreAcctBanStatus": "O",
+			"coreAcctAccountType": "I",
+			"coreAcctAccountSubType": "K",
+			"coreAcctATST": "IK",
+			"coreAcctATSTInInclusionList": "Y",
+			"coreAcctNbrActiveSubs": 1,
+			"coreAcctNbrReservedSubs": 0,
+			"coreAcctNbrSuspendedSubs": 0,
+			"coreAcctNbrCancelledSubs": 0,
+			"coreAcctNbrActvXPSubs": 1,
+			"coreAcctSubVoiceLineCnt": 0,
+			"coreAcctActvSubsOnReqPlan": 0,
+			"coreAcctSecCommChgLast30Days": "N",
+			"coreAcctICareOpenCasesCnt": 0,
+			"coreAcctPendingAR": 0,
+			"coreAcctOpenPortRequest": 0,
+			"coreAcctcsmFutureDatedActvInd": "N",
+			"coreAcctBillAdrGEOOnFile": "Y",
+			"coreCTMSOpenTicketCnt": 0,
+			"coreTOESDontSellList": 0,
+			"coreAcctCOOR": "Y",
+			"coreEAIPendingCOOR": "Y",
+			"coreWDMOpenOrders": 0,
+			"coreSCEEInAcctInclusionOnlyMode": "N",
+			"coreExclBanFndOnList": "",
+			"onFlagASW": "true",
+			"coreAcctCurrentSysdate": "2022-03-09T12:45:30Z",
+			"coreAcctInactivity": 0,
+			"coreAcctActvSubsOnSamePP": 0,
+			"coreAcctSubMILineCnt": 1
+		}
+	},
+	"response": {
+
+		}
+	
+}

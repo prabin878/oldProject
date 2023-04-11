@@ -1,0 +1,53 @@
+{
+	"request": {
+		"params": {
+			
+		},
+		"body": {
+			"conversionId":"AssuranceWirelessToMetro",
+			"coreAcctBan": 970472114,
+            		"coreAcctBanStatus": "C",
+           		"coreAcctAccountType": "I",
+            		"coreAcctAccountSubType": "I",
+            		"coreAcctATST": "II",
+            		"coreAcctATSTInInclusionList": "N",
+            		"coreAcctNbrActiveSubs": 0,
+            		"coreAcctNbrReservedSubs": 0,
+            		"coreAcctNbrSuspendedSubs": 0,
+            		"coreAcctNbrCancelledSubs": 1,
+            		"coreAcctNbrActvXPSubs": 0,
+            		"coreAcctSubVoiceLineCnt": 0,
+            		"coreAcctActvSubsOnReqPlan": 0,
+            		"coreAcctSecCommChgLast30Days": "N",
+            		"coreAcctICareOpenCasesCnt": 0,
+            		"coreAcctPendingAR": 0,
+            		"coreAcctOpenPortRequest": 0,
+            		"coreAcctcsmFutureDatedActvInd": "N",
+            		"coreAcctBillAdrGEOOnFile": "Y",
+            		"coreCTMSOpenTicketCnt": 0,
+            		"coreTOESDontSellList": null,
+            		"coreAcctCOOR": "N",
+            		"coreEAIPendingCOOR": null,
+            		"coreWDMOpenOrders": 0,
+            		"coreSCEEInAcctInclusionOnlyMode": "Y",
+            		"coreExclBanFndOnList": null,
+            		"onFlagASW": "true",
+            		"coreAcctCurrentSysdate": "2022-11-22T16:51:16Z",
+            		"coreAcctInactivity": 0,
+            		"coreAcctActvSubsOnSamePP": 0,
+            		"coreAcctSubMILineCnt": 0,
+            		"coreAcctSelectedRelease": "current",
+            		"coreAcctThreshold": 0,
+            		"coreMCFBlockMAP": "N"
+		}
+	},
+	"response": {
+			"ruleSet": "RS_202205_ASW_R1_v1.4",
+			"ruleId": "",
+			"failureCode": "",
+			"failureText": "",
+			"eligible": true,
+			"checkSum": "e4a73bd7ed71a6df3fdaac226edb3b371611cb73f2e7a54ed55e8cb5e3f5620d"
+		}
+	
+}

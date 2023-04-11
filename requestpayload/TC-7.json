@@ -1,0 +1,49 @@
+{
+	"request": {
+		"params": {
+			
+		},
+		"body": {
+			"conversionId": "AssuranceWirelessToMetro",
+			"coreAcctBan": 481807672,
+			"coreAcctBanStatus": "O",
+			"coreAcctAccountType": "I",
+			"coreAcctAccountSubType": "K",
+			"coreAcctATST": "IK",
+			"coreAcctATSTInInclusionList": "Y",
+			"coreAcctNbrActiveSubs": 1,
+			"coreAcctNbrReservedSubs": 0,
+			"coreAcctNbrSuspendedSubs": 0,
+			"coreAcctNbrCancelledSubs": 0,
+			"coreAcctNbrActvXPSubs": 1,
+			"coreAcctSubVoiceLineCnt": 0,
+			"coreAcctActvSubsOnReqPlan": 0,
+			"coreAcctSecCommChgLast30Days": "N",
+			"coreAcctICareOpenCasesCnt": 0,
+			"coreAcctPendingAR": 0,
+			"coreAcctOpenPortRequest": 0,
+			"coreAcctcsmFutureDatedActvInd": "N",
+			"coreAcctBillAdrGEOOnFile": "Y",
+			"coreCTMSOpenTicketCnt": 0,
+			"coreTOESDontSellList": 0,
+			"coreAcctCOOR": "Y",
+			"coreEAIPendingCOOR": "Y",
+			"coreWDMOpenOrders": 0,
+			"coreSCEEInAcctInclusionOnlyMode": "N",
+			"coreExclBanFndOnList": "",
+			"onFlagASW": "true",
+			"coreAcctCurrentSysdate": "2022-03-09T12:45:30Z",
+			"coreAcctInactivity": 0,
+			"coreAcctActvSubsOnSamePP": 0,
+			"coreAcctSubMILineCnt": 1
+		}
+	},
+	"response": {
+			"ruleSet": "RS_202205_ASW_R1_v1.4",
+			"ruleId": "",
+			"failureCode": "",
+			"failureText": "",
+			"eligible": true,
+			"checkSum": "e4a73bd7ed71a6df3fdaac226edb3b371611cb73f2e7a54ed55e8cb5e3f5620d"
+		}
+	
